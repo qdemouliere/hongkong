@@ -1,0 +1,1 @@
+{"config":{"lang":["fr"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Home","text":"<p># Documentation de l'agence CUB Hong-Kong</p> <p>Bienvenue sur la documentation CUB Hong-Kong produite en Markdown et avec Mkdocs...</p>"},{"location":"documentation/1-Test/","title":"Titre 1","text":"<p>Ceci est un test pour Mkdocs</p>"}]}
